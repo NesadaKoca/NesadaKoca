@@ -5,7 +5,6 @@
 [![Mail Badge](https://img.shields.io/badge/-nesada-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:knesada@yahoo.com)
 
 Hi fellow developer, I'm Nesada. 
-I have a Bachelor in Criminal Justice and Forensic Accounting. However, I have had a lasting curiosity about coding so I decided to explore this path after graduating.
 
 
 
